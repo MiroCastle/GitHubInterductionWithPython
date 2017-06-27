@@ -1,6 +1,8 @@
 #!/usr/bin/python
 
+#Script that reads given parameter and returns them as a string
 import sys
+
 
 print("Hello Sir")
 if len(sys.argv) == 2:

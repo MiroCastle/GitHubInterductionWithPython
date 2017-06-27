@@ -2,7 +2,7 @@
 
 import sys
 
-print("Hello")
+print("Hello Sir")
 if len(sys.argv) == 2:
     result = len(sys.argv[1])
     parameterWord = sys.argv[1]
